@@ -1,2 +1,9 @@
-# Processing_Study
-Private repo for 2018-2 CAU 3D Image Design projects
+# RecursiveRaichu
+![Preview](RecursiveRaichu.gif)
+
+__Program Introduction__  
+* Don't make Raichu get angry
+
+__Control__    
+* Press 'g' : Generate the lightning(Turn on the Glow Effect)   
+* Press Esc : Exit the program  
