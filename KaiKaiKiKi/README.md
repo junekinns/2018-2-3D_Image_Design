@@ -8,5 +8,5 @@ __Program Introduction__
 * It creates a fullscreen window and draw flowers on random position & size
 
 __Control__  
-* Press any key : generate flowers  
-* Press Esc : exit the program  
+* Press any key : Generate flowers  
+* Press Esc : Exit the program  
